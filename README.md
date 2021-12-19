@@ -23,5 +23,7 @@ git reset --hard HEAD^
  
 git push origin -f
 
-
-
+ 
+#Discard unstaged changes in Git
+ 
+git reset .
